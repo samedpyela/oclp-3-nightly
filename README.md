@@ -18,7 +18,7 @@ As macOS Tahoe continues to drop support for legacy components, the OCLP 3.0 Nig
 The primary focus of the files and methods archived here is fixing core system components:
 
 * **Wi-Fi Restoration:** Contains the necessary framework adjustments and kext implementations to restore wireless networking in macOS Tahoe, bypassing Apple's removal of legacy network drivers.
-* **Audio (Sound) Fixes:** Documents the patching process required to get internal audio working correctly within the new macOS 16 environment.
+* **Audio (Sound) Fixes:** Documents the patching process required to get internal audio working correctly within the new macOS 26 environment.
 
 ### ✅ Tested Hardware
 The methods and patches discussed in this archive have been successfully tested on:
